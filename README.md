@@ -1,5 +1,5 @@
 THIS IS MY PROTFOLIO# 💫 About Me:
-i am Raj now iam currently working on github program<br>my course is about BCA(cyber security) and <br>iam in 2ndyear . I also learning  the cloud computing <br>with the collaboration of CYBER DOJO  i have the knowledge <br>about java ,network security ,endpoint security <br>I have also learned about  the phishing and also done the <br>practical work on this attack in the LINUX 
+i am Raj now iam currently working on github program<br>my course is about BCA(cyber security) and <br>iam in 2ndyear . I also learning  the cloud computing <br>with the collaboration of CYBER DOJO  i have the knowledge <br>about java ,network security ,endpoint security <br>I have also learned about  the phishing and also done the <br>practical work on this attack in the LINUX .I have knowledge about CMD ,cisco packet tracer,wazuh commands
 
 
 ## 🌐 Socials:
